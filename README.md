@@ -1,7 +1,7 @@
-I'm Diene, Hi there!  ![image](https://user-images.githubusercontent.com/87545136/143295768-ea98a3bd-2579-4638-9040-d72552ff79a9.png)
+I'm Diene, Hi there! 
 
 
- Web development student @trybe
+ Web development student Trybe
 - 😊 Pronomes (Pronouns): ela/dela (she/her).
 
 <div align="center">
