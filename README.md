@@ -1,6 +1,6 @@
-### Olá! Eu sou a Diene 👋
+I'm Diene, Hi there!  👋
 
-- 📚 Estou estudando (I'm studying): Javascript e CSS;
+ Web development student @trybe
 - 😊 Pronomes (Pronouns): ela/dela (she/her).
 
 <div align="center">
