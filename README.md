@@ -6,6 +6,8 @@ I'm Diene, Hi there!
 
 <div>
   <a href="https://github.com/Diene89">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diene89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diene89&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div dir="auto">
