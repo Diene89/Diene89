@@ -1,8 +1,3 @@
-I'm Diene, Hi there! 
-
-- 📚 Web development 
-- 😊 Pronomes (Pronouns): ela/dela (she/her).
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Diene!;Seja+muito+bem-vindo(a)+por+aqui.)](https://git.io/typing-svg)
 
 <div>
