@@ -32,7 +32,6 @@ I'm Diene, Hi there!
   <a href="https://www.typescriptlang.org/" title="TypeScript"><img alt="TypeScript icon" height="50px" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
   <a href="https://www.mongodb.com/docs/" title="MongoDB"><img alt="MongoDB icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="50px" width="60px" /></a>
 </div>
-<br><br>
   
   ![Snake animation](https://github.com/diene89/diene89/blob/output/github-contribution-grid-snake.svg)
   
