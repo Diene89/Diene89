@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Diene!;Seja+muito+bem-vindo(a)+por+aqui.)](https://git.io/typing-svg)
 
+<img align="right" src="![AvatarMaker(2)](https://user-images.githubusercontent.com/87545136/204668967-1074e645-decf-4852-b07a-93d35afcc318.png)"
+ alt="Me" width="250px">
+
 <div>
   <a href="https://github.com/Diene89">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diene89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
