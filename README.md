@@ -2,7 +2,6 @@ I'm Diene, Hi there!
 
 - 📚 Web development 
 - 😊 Pronomes (Pronouns): ela/dela (she/her).
-Enviado do Email para Windows
 
 <div>
   <a href="https://github.com/Diene89">
