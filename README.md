@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Vitória!;Seja+muito+bem-vindo(a)+por+aqui.)](https://git.io/typing-svg)
-![Diene](https://user-images.githubusercontent.com/86388276/184025229-e2545559-2395-4e39-a72f-28572e1e779f.png)
+I'm Diene, Hi there! 
+
+- 📚 Web development 
+- 😊 Pronomes (Pronouns): ela/dela (she/her).
+Enviado do Email para Windows
 
 <div>
   <a href="https://github.com/Diene89">
